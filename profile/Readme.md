@@ -45,7 +45,7 @@ By the end of this course, students should be able to:
 | Week | Topic | Assessments |
 |:--:  | :--- | :---------- |
 | 1 | Hello Linux, Hello C| Homework: Debuggin C,  Learning Activity: Using the Terminal,  Knowledge Check |
-| 2 | Hello Linux, Hello C | Discussion Activity,  Knowledge Check |
+| 2 | C and the Memory Stack | Discussion Activity,  Knowledge Check |
 | 3 | The Heap, and Executables  | Team Activity, Homework: C Practice, Knowedge Check |
 | 4 |  Introduction to Analysis of Algorithms, Quadratic Sorts (Selection, Insertion, Bubble) | Team Activity, Discussion Activity, Knowledge Check |
 | 5 | Efficient Sorting with Divide and Conquer Sorts  | Team Activity, Homework: Sort Analysis,  Knowledge Check |
